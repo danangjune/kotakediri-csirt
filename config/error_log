@@ -1,0 +1,4 @@
+[22-Dec-2023 05:44:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home_cpanel/csirtkedirikotag/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home_cpanel/csirtkedirikotag/public_html/config/database.php on line 18
