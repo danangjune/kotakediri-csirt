@@ -46,7 +46,8 @@ Route::get('/', function () {
         'files' => File::latest()->get(),
         'keys' => Key::latest()->get(),
         'propertiez'  => ImageProperty::where('property', 'Banner')->latest()->get(),
-        'properties' => ImageProperty::where('property', 'Logo')->latest()->get()
+        'properties' => ImageProperty::where('property', 'Logo')->latest()->get(),
+        'guidances' => Guidance::paginate(10)
     ]);
 })->name('home')->middleware(Spatie\Csp\AddCspHeaders::class);
 
