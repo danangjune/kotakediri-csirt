@@ -32,6 +32,9 @@
           <li class="nav-item">
             <a class="nav-link {{ Request::is('contact') ? 'active' : '' }}" href="/contact">Kontak</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link {{ Request::is('pengaduan') ? 'active' : '' }}" href="/contact">Pengaduan</a>
+          </li>
         </ul>
       </div>
     </div>
