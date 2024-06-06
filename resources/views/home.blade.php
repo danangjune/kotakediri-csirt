@@ -119,7 +119,7 @@
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
             <div class="service-item">
               <div class="img">
-                <img src="template-herobiz/img/services-1.jpg" class="img-fluid" alt="">
+                <img src="template-herobiz/img/services-1new.jpg" class="img-fluid" alt="">
               </div>
               <div class="details position-relative">
                 <div class="icon">
@@ -136,7 +136,7 @@
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
             <div class="service-item">
               <div class="img">
-                <img src="template-herobiz/img/services-2.jpg" class="img-fluid" alt="">
+                <img src="template-herobiz/img/services-2new.jpg" class="img-fluid" alt="">
               </div>
               <div class="details position-relative">
                 <div class="icon">
@@ -153,7 +153,7 @@
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="service-item">
               <div class="img">
-                <img src="template-herobiz/img/services-3.jpg" class="img-fluid" alt="">
+                <img src="template-herobiz/img/services-3new.jpg" class="img-fluid" alt="">
               </div>
               <div class="details position-relative">
                 <div class="icon">
@@ -180,27 +180,27 @@
         <div class="row gy-4">
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
-            <img src="template-herobiz/img/clients/client-1.png" class="img-fluid" alt="">
+            <img src="" class="img-fluid" alt="">
           </div><!-- End Client Item -->
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
-            <img src="template-herobiz/img/clients/client-2.png" class="img-fluid" alt="">
+            <img src="template-herobiz/img/clients/client-2new.png" class="img-fluid" alt="">
           </div><!-- End Client Item -->
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
-            <img src="template-herobiz/img/clients/client-3.png" class="img-fluid" alt="">
+            <img src="template-herobiz/img/clients/client-3new.png" class="img-fluid" alt="">
           </div><!-- End Client Item -->
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
-            <img src="template-herobiz/img/clients/client-4.png" class="img-fluid" alt="">
+            <img src="template-herobiz/img/clients/client-4new.svg" class="img-fluid" alt="">
           </div><!-- End Client Item -->
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
-            <img src="template-herobiz/img/clients/client-5.png" class="img-fluid" alt="">
+            <img src="template-herobiz/img/clients/client-1new.png" class="img-fluid" alt="">
           </div><!-- End Client Item -->
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
-            <img src="template-herobiz/img/clients/client-6.png" class="img-fluid" alt="">
+            <img src="" class="img-fluid" alt="">
           </div><!-- End Client Item -->
         </div>
       </div>    
@@ -215,7 +215,7 @@
           <div class="col-lg-7 d-flex flex-column justify-content-center order-2 order-lg-1">
 
             <div class="content px-xl-5" data-aos="fade-up" data-aos-delay="100">
-              <h3><span>Frequently Asked </span><strong>Questions</strong></h3>
+              <h3><span>FA</span><strong>Q</strong></h3>
               <p>
                 Pertanyaan-pertanyaan yang sering muncul tentang CSIRT Kota Kediri
               </p>
@@ -308,103 +308,6 @@
       </div>
 
     </section><!-- /Portfolio Section -->
-
-    <!-- Recent Posts Section -->
-    <section id="recent-posts" class="recent-posts section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Artikel Terkini</h2>
-        <p>Artikel-artikel terkini terkait keamanan informasi</p>
-      </div><!-- End Section Title -->
-
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <article>
-
-              <div class="post-img">
-                <img src="template-herobiz/img/blog/blog-1.jpg" alt="" class="img-fluid">
-              </div>
-
-              <p class="post-category">Politics</p>
-
-              <h2 class="title">
-                <a href="blog-details.html">Dolorum optio tempore voluptas dignissimos</a>
-              </h2>
-
-              <div class="d-flex align-items-center">
-                <img src="template-herobiz/img/blog/blog-author.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                <div class="post-meta">
-                  <p class="post-author">Maria Doe</p>
-                  <p class="post-date">
-                    <time datetime="2022-01-01">Jan 1, 2022</time>
-                  </p>
-                </div>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <article>
-
-              <div class="post-img">
-                <img src="template-herobiz/img/blog/blog-2.jpg" alt="" class="img-fluid">
-              </div>
-
-              <p class="post-category">Sports</p>
-
-              <h2 class="title">
-                <a href="blog-details.html">Nisi magni odit consequatur autem nulla dolorem</a>
-              </h2>
-
-              <div class="d-flex align-items-center">
-                <img src="template-herobiz/img/blog/blog-author-2.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                <div class="post-meta">
-                  <p class="post-author">Allisa Mayer</p>
-                  <p class="post-date">
-                    <time datetime="2022-01-01">Jun 5, 2022</time>
-                  </p>
-                </div>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <article>
-
-              <div class="post-img">
-                <img src="template-herobiz/img/blog/blog-3.jpg" alt="" class="img-fluid">
-              </div>
-
-              <p class="post-category">Entertainment</p>
-
-              <h2 class="title">
-                <a href="blog-details.html">Possimus soluta ut id suscipit ea ut in quo quia et soluta</a>
-              </h2>
-
-              <div class="d-flex align-items-center">
-                <img src="template-herobiz/img/blog/blog-author-3.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                <div class="post-meta">
-                  <p class="post-author">Mark Dower</p>
-                  <p class="post-date">
-                    <time datetime="2022-01-01">Jun 22, 2022</time>
-                  </p>
-                </div>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-        </div><!-- End recent posts list -->
-
-      </div>
-
-    </section><!-- /Recent Posts Section -->
 
     <!-- Contact Section -->
     <section id="contact" class="contact section">
