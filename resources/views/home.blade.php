@@ -81,7 +81,7 @@
         <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
           <div class="col-lg-5">
             <div class="about-img">
-              <img src="template-herobiz/img/about-portrait.jpg" class="img-fluid" alt="">
+              <img src="template-herobiz/img/about-portrait.png" class="img-fluid" alt="">
             </div>
           </div>
           <div class="col-lg-7">
@@ -268,13 +268,13 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Panduan Penangan Insiden Siber</h2>
+        <h2>Panduan Penanganan Insiden Siber</h2>
         <p>Daftar Dokumen-dokumen Panduan untuk Penanganan Insiden Siber</p>
       </div><!-- End Section Title -->
 
       <div class="container">
         <table class="table table-striped table-sm">
-            <thead class="table-dark">
+            <thead class="table-purple">
               <tr>
                 <th scope="col">No</th>
                 <th scope="col">Name</th>
